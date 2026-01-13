@@ -69,7 +69,10 @@ Frontend Developer
 GitHub: https://github.com/srikumar-pal
 
 LinkedIn: https://www.linkedin.com/in/srikumarpal
-![Uploading Screenshot 2026-01-05 192748.png…]()
+
+
+<img width="578" height="754" alt="Screenshot 2026-01-05 192748" src="https://github.com/user-attachments/assets/d11e7bc1-175b-439f-9373-4743bd2ae3f8" />
+
 
 📜 License
 
